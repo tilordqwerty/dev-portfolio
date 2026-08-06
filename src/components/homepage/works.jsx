@@ -40,7 +40,7 @@ const Works = () => {
 								Mobile developer (contributor)
 							</div>
 							<div className="work-duration">
-							    november 2025
+							    november 2025 - present
 							</div>
 						</div>
 						<div className="work">
