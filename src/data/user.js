@@ -38,7 +38,7 @@ const INFO = {
 			title: "wakeupbrah",
 			description:
 				"An alarm, but for snoozers. Made with React Native/Expo.",
-			logo: "public/splash-icon.png",
+			logo: "../wakeupbrah.png",
 			linkText: "View Project",
 			link: "https://github.com/elgabrielcisneros/wakeupbrah",
 		},
