@@ -16,9 +16,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Mobile Front-End Developer 👷",
+		title: "Mobile Developer 👷",
 		description:
-			"I'm a mobile developer with expertise in Ionic Framework and React Native, and React JS, Angular in web development. I have experience in building scalable, secure and reliable mobile applications using various frameworks and technologies. I enjoy building cool mobile apps that are both functional and visually appealing and i enjoy learning new skills. I am passionate about creating high-quality code that follows best practices. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I'm a mobile developer with expertise in React Native/Expo and Ionic Framework, and React JS, Angular in web development. I have experience in building scalable, secure and reliable mobile applications using various frameworks and technologies. I enjoy building cool mobile apps that are both functional and visually appealing and i enjoy learning new skills. I am passionate about creating high-quality code that follows best practices and using the latest tools and technologies along the fundamentals. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
@@ -35,17 +35,9 @@ const INFO = {
 
 	projects: [
 		{
-			title: "QR Scanner",
-			description:
-				"QR Scanner made with Ionic using the google barcode scanning plugin. This project is based on a project from the Devtalles Ionic Course in Udemy.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
-			linkText: "View Project",
-			link: "https://github.com/elgabrielcisneros/03-qrscanner",
-		},
-
-		{
 			title: "wakeupbrah",
-			description: "Alarm app for snoozers made with React Native.",
+			description:
+				"An alarm, but for snoozers. Made with React Native/Expo.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
 			linkText: "View Project",
 			link: "https://github.com/elgabrielcisneros/wakeupbrah",
