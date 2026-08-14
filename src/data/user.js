@@ -40,7 +40,7 @@ const INFO = {
 				"An alarm, but for snoozers. Made with React Native/Expo.",
 			logo: "../wakeupbrah.png",
 			linkText: "View Project",
-			link: "https://github.com/elgabrielcisneros/wakeupbrah",
+			link: "https://wakeupbrah.vercel.app",
 		},
 
 		// {
